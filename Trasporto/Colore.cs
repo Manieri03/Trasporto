@@ -8,6 +8,6 @@ namespace Trasporto
     {
         Verde,
         Rosso,
-        Blu
+        Blu 
     }
 }
